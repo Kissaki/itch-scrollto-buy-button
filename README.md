@@ -1,6 +1,6 @@
 # Itch.io Scroll To Buy/Claim Button
 
-Adds a page action to itch.io to scroll to the buy button.
+Adds a page action to itch.io to scroll to the buy/claim button.
 
 ![page action screenshot](screenshots/page-action.png)
 
