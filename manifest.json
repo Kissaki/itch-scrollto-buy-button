@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Itch.io Scroll To Buy Button",
+  "description": "Add button to page actions",
+  "version": "1.0.0",
+  "permissions": ["*://*.itch.io/*"],
+  "page_action": {
+    "browser_style": true,
+    "show_matches": ["*://*.itch.io/*"],
+    "default_title": "Scroll to buy/claim button",
+    "default_icon": {
+      "19": "icons/19.png",
+      "38": "icons/38.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
